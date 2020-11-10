@@ -1,5 +1,5 @@
 {
-  "name": "devcamp-js-footer-SahalM",
+  "name": "devcamp-js-footer-sahalm",
   "version": "0.1.0",
   "description": "This module allows for a dynamic footer to be generated for JS applications with an updated years and name.",
   "main": "index.js",
